@@ -17,7 +17,7 @@ This project showcases an interactive Healthcare Analytics Dashboard built in Po
 •	Created DAX measures for averages, counts, utilization, and performance metrics
 
 ### Tools Used
-#### •	Power BI
+•	Power BI
 •	Power Query
 •	DAX
 •	Microsoft Excel
